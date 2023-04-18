@@ -27,3 +27,11 @@ let obj = {}
 
 
 :blush:
+
+---
+
+this is a ==hightlighted== sentence
+
+> this is a block quote
+
+
